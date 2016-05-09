@@ -1,0 +1,6 @@
+- apply , call , bind , this
+- unicode
+- Date
+- Math
+- Regular expressions
+- module loaders

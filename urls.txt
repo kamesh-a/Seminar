@@ -1,0 +1,9 @@
+Articles :
+Secret life of javascript primitives : https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/
+Everything in javascript can act like objects : https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/
+Array Like Objects : http://www.nfriedly.com/techblog/2009/06/advanced-javascript-objects-arrays-and-array-like-objects/
+
+Books :
+Javascript Englightment : http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf
+ES5 : http://speakingjs.com/es5/index.html
+Event Loop : https://www.youtube.com/watch?v=8aGhZQkoFbQ
